@@ -1,0 +1,6 @@
+{
+  "name": "breathflow",
+  "version": "1.0.0",
+  "description": "Sound-guided breathing app",
+  "private": true
+}
